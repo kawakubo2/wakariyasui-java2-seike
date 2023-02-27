@@ -1,7 +1,5 @@
 package chapter06;
 
-import java.util.Locale;
-
 import lib.Input;
 
 public class Sample6_7 {
